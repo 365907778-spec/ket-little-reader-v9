@@ -1,0 +1,663 @@
+{
+  "sentences": {
+    "03": {
+      "file": "sentence-03.mp3",
+      "start": 4.358,
+      "end": 10.623
+    },
+    "05": {
+      "file": "sentence-05.mp3",
+      "start": 2.072,
+      "end": 14.88
+    },
+    "06": {
+      "file": "sentence-06.mp3",
+      "start": 4.469,
+      "end": 17.393
+    },
+    "07": {
+      "file": "sentence-07.mp3",
+      "start": 4.387,
+      "end": 14.155
+    }
+  },
+  "words": {
+    "fragment-0": {
+      "file": "fragment-0.mp3",
+      "sentence": "04",
+      "start": 36.025,
+      "end": 36.625
+    },
+    "fragment-1": {
+      "file": "fragment-1.mp3",
+      "sentence": "04",
+      "start": 38.866,
+      "end": 39.306
+    },
+    "fragment-2": {
+      "file": "fragment-2.mp3",
+      "sentence": "04",
+      "start": 41.486,
+      "end": 41.806
+    },
+    "fragment-3": {
+      "file": "fragment-3.mp3",
+      "sentence": "04",
+      "start": 43.987,
+      "end": 44.387
+    },
+    "fragment-4": {
+      "file": "fragment-4.mp3",
+      "sentence": "04",
+      "start": 46.608,
+      "end": 46.968
+    },
+    "fragment-5": {
+      "file": "fragment-5.mp3",
+      "sentence": "04",
+      "start": 49.228,
+      "end": 49.588
+    },
+    "fragment-6": {
+      "file": "fragment-6.mp3",
+      "sentence": "04",
+      "start": 51.709,
+      "end": 52.329
+    },
+    "fragment-7": {
+      "file": "fragment-7.mp3",
+      "sentence": "04",
+      "start": 54.45,
+      "end": 54.85
+    },
+    "fragment-8": {
+      "file": "fragment-8.mp3",
+      "sentence": "04",
+      "start": 56.91,
+      "end": 57.291
+    },
+    "fragment-9": {
+      "file": "fragment-9.mp3",
+      "sentence": "04",
+      "start": 59.491,
+      "end": 60.031
+    },
+    "fragment-10": {
+      "file": "fragment-10.mp3",
+      "sentence": "04",
+      "start": 62.232,
+      "end": 62.552
+    },
+    "fragment-11": {
+      "file": "fragment-11.mp3",
+      "sentence": "04",
+      "start": 64.87,
+      "end": 65.512
+    },
+    "fragment-12": {
+      "file": "fragment-12.mp3",
+      "sentence": "04",
+      "start": 67.757,
+      "end": 68.158
+    },
+    "fragment-13": {
+      "file": "fragment-13.mp3",
+      "sentence": "04",
+      "start": 70.403,
+      "end": 70.763
+    },
+    "05-0": {
+      "file": "05-0.mp3",
+      "sentence": "05",
+      "start": 16.961,
+      "end": 17.362
+    },
+    "05-1": {
+      "file": "05-1.mp3",
+      "sentence": "05",
+      "start": 19.543,
+      "end": 20.203
+    },
+    "05-2": {
+      "file": "05-2.mp3",
+      "sentence": "05",
+      "start": 22.365,
+      "end": 22.825
+    },
+    "05-3": {
+      "file": "05-3.mp3",
+      "sentence": "05",
+      "start": 25.166,
+      "end": 25.366
+    },
+    "05-4": {
+      "file": "05-4.mp3",
+      "sentence": "05",
+      "start": 27.548,
+      "end": 27.908
+    },
+    "05-5": {
+      "file": "05-5.mp3",
+      "sentence": "05",
+      "start": 30.23,
+      "end": 30.81
+    },
+    "05-6": {
+      "file": "05-6.mp3",
+      "sentence": "05",
+      "start": 33.085,
+      "end": 33.545
+    },
+    "05-7": {
+      "file": "05-7.mp3",
+      "sentence": "05",
+      "start": 35.667,
+      "end": 36.247
+    },
+    "05-8": {
+      "file": "05-8.mp3",
+      "sentence": "05",
+      "start": 38.449,
+      "end": 39.029
+    },
+    "05-9": {
+      "file": "05-9.mp3",
+      "sentence": "05",
+      "start": 41.211,
+      "end": 41.571
+    },
+    "05x-0": {
+      "file": "05x-0.mp3",
+      "sentence": "05",
+      "start": 43.653,
+      "end": 44.173
+    },
+    "05x-1": {
+      "file": "05x-1.mp3",
+      "sentence": "05",
+      "start": 46.335,
+      "end": 46.755
+    },
+    "05x-2": {
+      "file": "05x-2.mp3",
+      "sentence": "05",
+      "start": 48.997,
+      "end": 49.797
+    },
+    "05x-3": {
+      "file": "05x-3.mp3",
+      "sentence": "05",
+      "start": 51.899,
+      "end": 52.379
+    },
+    "05x-4": {
+      "file": "05x-4.mp3",
+      "sentence": "05",
+      "start": 54.441,
+      "end": 54.841
+    },
+    "05x-5": {
+      "file": "05x-5.mp3",
+      "sentence": "05",
+      "start": 56.943,
+      "end": 57.443
+    },
+    "05x-6": {
+      "file": "05x-6.mp3",
+      "sentence": "05",
+      "start": 59.605,
+      "end": 59.905
+    },
+    "05x-7": {
+      "file": "05x-7.mp3",
+      "sentence": "05",
+      "start": 62.182,
+      "end": 62.933
+    },
+    "06-0": {
+      "file": "06-0.mp3",
+      "sentence": "06",
+      "start": 4.669,
+      "end": 5.429
+    },
+    "06-1": {
+      "file": "06-1.mp3",
+      "sentence": "06",
+      "start": 6.87,
+      "end": 7.27
+    },
+    "06-2": {
+      "file": "06-2.mp3",
+      "sentence": "06",
+      "start": 75.997,
+      "end": 76.157
+    },
+    "06-3": {
+      "file": "06-3.mp3",
+      "sentence": "06",
+      "start": 76.277,
+      "end": 76.677
+    },
+    "06-4": {
+      "file": "06-4.mp3",
+      "sentence": "06",
+      "start": 8.67,
+      "end": 9.03
+    },
+    "06-5": {
+      "file": "06-5.mp3",
+      "sentence": "06",
+      "start": 32.922,
+      "end": 33.322
+    },
+    "06-6": {
+      "file": "06-6.mp3",
+      "sentence": "06",
+      "start": 35.543,
+      "end": 36.224
+    },
+    "06-7": {
+      "file": "06-7.mp3",
+      "sentence": "06",
+      "start": 38.345,
+      "end": 38.925
+    },
+    "06-8": {
+      "file": "06-8.mp3",
+      "sentence": "06",
+      "start": 41.026,
+      "end": 41.546
+    },
+    "06-9": {
+      "file": "06-9.mp3",
+      "sentence": "06",
+      "start": 43.707,
+      "end": 44.267
+    },
+    "06x-0": {
+      "file": "06x-0.mp3",
+      "sentence": "06",
+      "start": 46.548,
+      "end": 46.969
+    },
+    "06x-1": {
+      "file": "06x-1.mp3",
+      "sentence": "06",
+      "start": 49.19,
+      "end": 49.89
+    },
+    "06x-2": {
+      "file": "06x-2.mp3",
+      "sentence": "06",
+      "start": 52.091,
+      "end": 52.731
+    },
+    "06x-3": {
+      "file": "06x-3.mp3",
+      "sentence": "06",
+      "start": 54.952,
+      "end": 55.533
+    },
+    "06x-4": {
+      "file": "06x-4.mp3",
+      "sentence": "06",
+      "start": 57.674,
+      "end": 58.114
+    },
+    "06x-5": {
+      "file": "06x-5.mp3",
+      "sentence": "06",
+      "start": 60.235,
+      "end": 60.595
+    },
+    "06x-6": {
+      "file": "06x-6.mp3",
+      "sentence": "06",
+      "start": 62.812,
+      "end": 63.272
+    },
+    "06x-7": {
+      "file": "06x-7.mp3",
+      "sentence": "06",
+      "start": 65.373,
+      "end": 65.853
+    },
+    "06x-8": {
+      "file": "06x-8.mp3",
+      "sentence": "06",
+      "start": 67.914,
+      "end": 68.474
+    },
+    "06x-9": {
+      "file": "06x-9.mp3",
+      "sentence": "06",
+      "start": 70.675,
+      "end": 71.095
+    },
+    "06x-10": {
+      "file": "06x-10.mp3",
+      "sentence": "06",
+      "start": 73.176,
+      "end": 73.736
+    },
+    "06x-11": {
+      "file": "06x-11.mp3",
+      "sentence": "06",
+      "start": 75.997,
+      "end": 76.677
+    },
+    "06x-12": {
+      "file": "06x-12.mp3",
+      "sentence": "06",
+      "start": 78.838,
+      "end": 79.338
+    },
+    "06x-13": {
+      "file": "06x-13.mp3",
+      "sentence": "06",
+      "start": 81.599,
+      "end": 81.979
+    },
+    "06x-14": {
+      "file": "06x-14.mp3",
+      "sentence": "06",
+      "start": 84.22,
+      "end": 84.66
+    },
+    "06x-15": {
+      "file": "06x-15.mp3",
+      "sentence": "06",
+      "start": 86.821,
+      "end": 87.341
+    },
+    "06x-16": {
+      "file": "06x-16.mp3",
+      "sentence": "06",
+      "start": 89.522,
+      "end": 89.882
+    },
+    "06x-17": {
+      "file": "06x-17.mp3",
+      "sentence": "06",
+      "start": 92.04,
+      "end": 92.741
+    },
+    "06x-18": {
+      "file": "06x-18.mp3",
+      "sentence": "06",
+      "start": 94.902,
+      "end": 95.263
+    },
+    "06x-19": {
+      "file": "06x-19.mp3",
+      "sentence": "06",
+      "start": 97.424,
+      "end": 97.925
+    },
+    "07-0": {
+      "file": "07-0.mp3",
+      "sentence": "07",
+      "start": 16.337,
+      "end": 16.757
+    },
+    "07-1": {
+      "file": "07-1.mp3",
+      "sentence": "07",
+      "start": 19.019,
+      "end": 19.279
+    },
+    "07-2": {
+      "file": "07-2.mp3",
+      "sentence": "07",
+      "start": 21.521,
+      "end": 21.941
+    },
+    "07-3": {
+      "file": "07-3.mp3",
+      "sentence": "07",
+      "start": 24.063,
+      "end": 24.483
+    },
+    "07-4": {
+      "file": "07-4.mp3",
+      "sentence": "07",
+      "start": 26.765,
+      "end": 27.206
+    },
+    "07-5": {
+      "file": "07-5.mp3",
+      "sentence": "07",
+      "start": 29.468,
+      "end": 29.928
+    },
+    "07-6": {
+      "file": "07-6.mp3",
+      "sentence": "07",
+      "start": 32.183,
+      "end": 32.403
+    },
+    "07-7": {
+      "file": "07-7.mp3",
+      "sentence": "07",
+      "start": 34.524,
+      "end": 35.025
+    },
+    "07x-0": {
+      "file": "07x-0.mp3",
+      "sentence": "07",
+      "start": 37.206,
+      "end": 37.706
+    },
+    "07x-1": {
+      "file": "07x-1.mp3",
+      "sentence": "07",
+      "start": 39.867,
+      "end": 40.448
+    },
+    "07x-2": {
+      "file": "07x-2.mp3",
+      "sentence": "07",
+      "start": 42.549,
+      "end": 43.129
+    },
+    "07x-3": {
+      "file": "07x-3.mp3",
+      "sentence": "07",
+      "start": 45.311,
+      "end": 45.671
+    },
+    "07x-4": {
+      "file": "07x-4.mp3",
+      "sentence": "07",
+      "start": 47.752,
+      "end": 48.212
+    },
+    "07x-5": {
+      "file": "07x-5.mp3",
+      "sentence": "07",
+      "start": 50.434,
+      "end": 50.934
+    },
+    "07x-6": {
+      "file": "07x-6.mp3",
+      "sentence": "07",
+      "start": 53.035,
+      "end": 53.455
+    },
+    "07x-7": {
+      "file": "07x-7.mp3",
+      "sentence": "07",
+      "start": 55.697,
+      "end": 56.197
+    },
+    "07x-8": {
+      "file": "07x-8.mp3",
+      "sentence": "07",
+      "start": 58.478,
+      "end": 58.878
+    },
+    "07x-9": {
+      "file": "07x-9.mp3",
+      "sentence": "07",
+      "start": 61.06,
+      "end": 61.4
+    },
+    "07x-10": {
+      "file": "07x-10.mp3",
+      "sentence": "07",
+      "start": 63.668,
+      "end": 64.208
+    },
+    "07x-11": {
+      "file": "07x-11.mp3",
+      "sentence": "07",
+      "start": 66.369,
+      "end": 66.889
+    },
+    "07x-12": {
+      "file": "07x-12.mp3",
+      "sentence": "07",
+      "start": 69.129,
+      "end": 69.609
+    },
+    "07x-13": {
+      "file": "07x-13.mp3",
+      "sentence": "07",
+      "start": 71.809,
+      "end": 72.33
+    },
+    "07x-14": {
+      "file": "07x-14.mp3",
+      "sentence": "07",
+      "start": 74.57,
+      "end": 75.07
+    },
+    "07x-15": {
+      "file": "07x-15.mp3",
+      "sentence": "07",
+      "start": 77.17,
+      "end": 77.631
+    },
+    "07x-16": {
+      "file": "07x-16.mp3",
+      "sentence": "07",
+      "start": 79.711,
+      "end": 80.271
+    },
+    "07x-17": {
+      "file": "07x-17.mp3",
+      "sentence": "07",
+      "start": 82.371,
+      "end": 83.011
+    },
+    "07x-18": {
+      "file": "07x-18.mp3",
+      "sentence": "07",
+      "start": 85.152,
+      "end": 85.692
+    },
+    "07x-19": {
+      "file": "07x-19.mp3",
+      "sentence": "07",
+      "start": 87.912,
+      "end": 88.572
+    },
+    "07x-20": {
+      "file": "07x-20.mp3",
+      "sentence": "07",
+      "start": 90.773,
+      "end": 91.233
+    },
+    "03-0": {
+      "file": "03-0.mp3",
+      "sentence": "03",
+      "start": 12.845,
+      "end": 13.186
+    },
+    "03-1": {
+      "file": "03-1.mp3",
+      "sentence": "03",
+      "start": 15.488,
+      "end": 15.908
+    },
+    "03-2": {
+      "file": "03-2.mp3",
+      "sentence": "03",
+      "start": 20.852,
+      "end": 21.273
+    },
+    "03-3": {
+      "file": "03-3.mp3",
+      "sentence": "03",
+      "start": 28.959,
+      "end": 29.46
+    },
+    "03-4": {
+      "file": "03-4.mp3",
+      "sentence": "03",
+      "start": 26.057,
+      "end": 26.677
+    },
+    "p03-0": {
+      "file": "p03-0.mp3",
+      "sentence": "03",
+      "start": 61.683,
+      "end": 62.044
+    },
+    "p03-1": {
+      "file": "p03-1.mp3",
+      "sentence": "03",
+      "start": 56.782,
+      "end": 59.463
+    },
+    "p03-2": {
+      "file": "p03-2.mp3",
+      "sentence": "03",
+      "start": 69.872,
+      "end": 70.293
+    },
+    "p03-3": {
+      "file": "p03-3.mp3",
+      "sentence": "03",
+      "start": 64.306,
+      "end": 64.827
+    },
+    "p03-4": {
+      "file": "p03-4.mp3",
+      "sentence": "03",
+      "start": 67.009,
+      "end": 67.63
+    },
+    "p04-0": {
+      "file": "p04-0.mp3",
+      "sentence": "03",
+      "start": 72.475,
+      "end": 73.156
+    },
+    "p04-1": {
+      "file": "p04-1.mp3",
+      "sentence": "03",
+      "start": 75.378,
+      "end": 75.839
+    },
+    "p04-2": {
+      "file": "p04-2.mp3",
+      "sentence": "03",
+      "start": 18.07,
+      "end": 18.47
+    },
+    "p04-3": {
+      "file": "p04-3.mp3",
+      "sentence": "03",
+      "start": 34.439,
+      "end": 34.939
+    },
+    "p04-4": {
+      "file": "p04-4.mp3",
+      "sentence": "03",
+      "start": 37.179,
+      "end": 37.559
+    }
+  },
+  "missing": []
+}
