@@ -1,6 +1,6 @@
 const PREFIX='ket-garden-scope-'+encodeURIComponent(new URL(self.registration.scope).pathname)+'-';
-const CACHE=PREFIX+'v9.2.1';
-const FILES=['./','./index.html','./style.css','./v9-theme.css?v=9.2.1','./v9-handwriting.js?v=9.2.1','./assets/hero.webp','./assets/words.webp','./assets/listen.webp','./assets/spell.webp','./assets/review.webp','./data.js','./core.js','./question-bank.js','./cloud.js','./app.js','./app.js?v=9.2.1','./manifest.webmanifest','./icon.svg','./icon-192.png','./icon-512.png','./audio/clips/manifest.json',...['03','04','05','06','07'].map(id=>`./audio/sentence-${id}.mp3`)];
+const CACHE=PREFIX+'v9.2.2';
+const FILES=['./','./index.html','./style.css','./v9-theme.css?v=9.2.2','./v9-handwriting.js?v=9.2.2','./assets/hero.webp','./assets/words.webp','./assets/listen.webp','./assets/spell.webp','./assets/review.webp','./data.js','./core.js','./question-bank.js','./cloud.js','./app.js','./app.js?v=9.2.2','./manifest.webmanifest','./icon.svg','./icon-192.png','./icon-512.png','./audio/clips/manifest.json',...['03','04','05','06','07'].map(id=>`./audio/sentence-${id}.mp3`)];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(async cache=>{await cache.addAll(FILES);const manifest=await (await fetch('./audio/clips/manifest.json')).json();const clips=[...Object.values(manifest.sentences),...Object.values(manifest.words)].map(item=>`./audio/clips/${item.file}`);await cache.addAll(clips);}).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith(PREFIX)&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()));});
 function byteRange(value,size){
