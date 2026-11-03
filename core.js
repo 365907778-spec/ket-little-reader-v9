@@ -27,7 +27,7 @@
     if(!s||s.version!==1||!date(s.start)||!s.days||typeof s.days!=='object'||Array.isArray(s.days)||!s.words||typeof s.words!=='object'||Array.isArray(s.words)||!Array.isArray(s.attempts)||!Array.isArray(s.assessments)||!s.settings||!num(s.settings.rate)||s.settings.rate<0.5||s.settings.rate>1.3)return false;
     if(!Object.entries(s.days).every(([k,v])=>/^([1-9]|[12][0-9]|30)$/.test(k)&&v&&typeof v==='object'&&Object.values(v).every(x=>typeof x==='boolean')))return false;
     if(!Object.entries(s.words).every(([k,w])=>/^[\w-]+$/.test(k)&&w&&['seen','correct','wrong','streak','lapses'].every(n=>num(w[n]))&&date(w.due)))return false;
-    if(s.audioProgress!==undefined&&(!s.audioProgress||typeof s.audioProgress!=='object'||Array.isArray(s.audioProgress)||!Object.entries(s.audioProgress).every(([id,v])=>['03','04','05','06','07'].includes(id)&&num(v))))return false;
+    if(s.audioProgress!==undefined&&(!s.audioProgress||typeof s.audioProgress!=='object'||Array.isArray(s.audioProgress)||!Object.entries(s.audioProgress).every(([id,v])=>['03','04','05','06','07','08','09','10','11','12','13','14','15','16'].includes(id)&&num(v))))return false;
     if(s.settings.audioRate!==undefined&&![0.75,1,1.25].includes(s.settings.audioRate))return false;
     if(!s.attempts.every(a=>a&&typeof a.id==='string'&&typeof a.correct==='boolean'&&typeof a.helped==='boolean'&&typeof a.mode==='string'&&typeof a.answer==='string'&&num(a.day)&&date(a.date)&&num(a.ts)))return false;
     if(!s.assessments.every(a=>a&&['baseline','day15','day30'].includes(a.kind)&&date(a.date)&&Array.isArray(a.answers)&&a.answers.length===24&&a.answers.every(v=>v&&typeof v.id==='string'&&['read','listen'].includes(v.mode)&&typeof v.correct==='boolean')))return false;
@@ -36,3 +36,4 @@
   root.KETCore={dateKey,addDays,dayNumber,fresh,normalize,shuffled,options,record,due,validState};
   if(typeof module!=='undefined')module.exports=root.KETCore;
 })(globalThis);
+
